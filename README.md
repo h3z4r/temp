@@ -1,3 +1,7 @@
+
+[![Build Status](https://travis-ci.org/sindresorhus/pageres.svg?branch=master)](https://travis-ci.org/sindresorhus/pageres) [![Coverage Status](https://coveralls.io/repos/sindresorhus/pageres/badge.svg?branch=master)](https://coveralls.io/r/sindresorhus/pageres?branch=master)
+
+
 # Project Name
 
 Die Amis (http://www.die-amis.de) - A mobile web application for language learners
