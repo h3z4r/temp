@@ -1,6 +1,5 @@
 # Project Name
 
-TODO: Write a project description
 Die Amis (http://www.die-amis.de) - A mobile web application for language learners
 
 ## Installation
