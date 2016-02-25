@@ -1,5 +1,3 @@
-# ![pageres](media/promo.png)
-
 # Project Name
 
 Die Amis (http://www.die-amis.de) - A mobile web application for language learners
@@ -22,7 +20,14 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+FRONT-END-DEVELOPMENT:
+- File Structure: /, /css, /img, /js
+- Files: /index.html, dictionary.html, translator.html, grammar.html, lessons.html, lesson.html, tests.html, impressum.html, contact.html, /css/stylesheet.css, /css/normalize.css, /img/logo.png
+
+BACK-END-DEVELOPMENT:
+- File Structure: /inc
+- Files: index.php, dictionary.php, translator.php, grammar.php, lessons.php, lesson.php, tests.php, impressum.php, contact.php, /inc/header.php, /inc/footer.php 
+
 
 ## Credits
 
