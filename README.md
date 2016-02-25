@@ -20,6 +20,25 @@ TODO: Write usage instructions
 
 ## History
 
+PROJECT-MANAGEMENT:
+
+PRODUCT-MANAGEMENT:
+- Problem/Solution Space
+- Feature Priority
+- Information Architecture, Taxonomies
+- Product Outline
+
+UX-DESIGN:
+- User Stories, Storyboards 
+- User Flow 
+- Personas
+- Competitive Audit 
+- Sitemap
+- Sketches
+- Wireframes/Mockups
+
+VISUAL-DESIGN
+
 FRONT-END-DEVELOPMENT:
 - File Structure: /, /css, /img, /js
 - Files: /index.html, dictionary.html, translator.html, grammar.html, lessons.html, lesson.html, tests.html, impressum.html, contact.html, /css/stylesheet.css, /css/normalize.css, /img/logo.png
