@@ -20,6 +20,18 @@ TODO: Write usage instructions
 
 ## History
 
+Entrepreneur:
+Proposal
+
+Investor:
+Approval and limitations
+
+MANAGEMENT:
+Business Plan
+
+FINANCE:
+Financial Plan
+
 PUBLIC RELATIONS: 
 - Define corporate identity and profile
 - Define stakeholders identities and profiles
