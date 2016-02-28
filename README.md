@@ -21,14 +21,14 @@ TODO: Write usage instructions
 ## History
 
 PUBLIC RELATIONS: 
-Define corporate identity and profile
-Define stakeholders identities and profiles
-Creating unowned communication properties on web (Twitter, Facebook)
+- Define corporate identity and profile
+- Define stakeholders identities and profiles
+- Creating unowned communication properties on web (Twitter, Facebook)
 
 MARKETING:
-Markets and market structures according to Google search results (pdf.)
-Target market and structure details (pdf.)
-Competitor Analysis (pdf.)
+- Markets and market structures according to Google search results (pdf.)
+- Target market and structure details (pdf.)
+- Competitor Analysis (pdf.)
 
 PROJECT-MANAGEMENT:
 
